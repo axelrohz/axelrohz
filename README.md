@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Axel Rojero
+# Hi there 👋 I'm Axel Rojero-Hernández
 
-I'm a PhD researcher interested in developing and applying bioinformatics
+I'm a PhD researcher at TEC, interested in developing and applying bioinformatics
 approaches to study microbial communities, comparative genomics, and
 biotechnological systems.
 
@@ -9,23 +9,15 @@ with a particular interest in understanding microbial interactions and
 their relationship with human metabolic phenotypes.
 
 - 🧬 We are currently working on **metagenomics and gut microbiome research**.
-- 🍄 I'm particularly interested in the **gut mycobiome and bacteria–fungi interactions**.
 - 🦠 I work with **comparative genomics, pangenomics and metapangenomics**.
-- ⛏️ I'm exploring **genome mining and biosynthetic gene clusters (BGCs)**.
-- 🧪 I enjoy combining **wet-lab experiments with computational biology**.
 - 👨‍🏫 I am interested in **bioinformatics education and scientific mentoring**.
-- 🤝 I love collaborative work and I'm open to **international research collaborations**.
-- 📫 How to reach me: **[your academic email]**
+- 🤝 I view **collaboration as a pillar of science**, so I'm always open to new projects
 
 ## Recent work
 
 - **Gut microbiome and metabolic phenotypes**  
   Large-scale shotgun metagenomic analysis to investigate microbial signatures
   associated with obesity and metabolic phenotypes.
-
-- **Gut mycobiome and microbial networks**  
-  Study of fungal diversity and bacteria–fungi ecological interactions using
-  metagenomics and co-occurrence networks.
 
 - **Comparative genomics and metapangenomics**  
   Genome assembly, annotation, pangenome reconstruction and comparative analysis
@@ -40,31 +32,8 @@ their relationship with human metabolic phenotypes.
 **Metagenomics · Mycobiome · Microbial Genomics · Comparative Genomics ·
 Pangenomics · Metapangenomics · Genome Mining · Synthetic Biology**
 
-## Additional information
-
-I am a PhD researcher based in Monterrey, Mexico, working at the intersection
-of **bioinformatics, microbiology and biotechnology**.
-
-My research experience spans both computational and experimental biology.
-On the computational side, I work with shotgun metagenomics, microbial
-community analysis, genome assembly, MAG reconstruction, comparative genomics,
-pangenomics and genome mining.
-
-On the experimental side, I have experience with microbial biotechnology,
-genetic engineering and bacterial expression systems.
-
-I am especially interested in research environments where **bioinformatics
-and experimental biology are integrated**, and I am interested in
-international collaborations involving microbial genomics, microbiome research,
-synthetic biology and biotechnology.
-
-I also care strongly about teaching and scientific mentoring. I have
-participated as an advisor, instructor and mentor in biotechnology and
-bioinformatics projects, including international synthetic biology competitions.
-
 ## Selected activities
 
-- 🧬 **PhD research:** microbiome, mycobiome and metabolic phenotypes
 - 🧪 **Biotechnology:** microbial engineering and experimental biology
 - 💻 **Bioinformatics:** metagenomics, genomics, pangenomics and genome mining
 - 🏆 **iGEM:** Advisor and Instructor in Gold Medal teams
@@ -73,7 +42,7 @@ bioinformatics projects, including international synthetic biology competitions.
 
 ## Connect with me
 
-- 🎓 Google Scholar: [Google Scholar URL]
-- 🔬 ORCID: [ORCID URL]
-- 💼 LinkedIn: [LinkedIn URL]
-- 📧 Email: [email]
+- 🎓 Google Scholar: [https://scholar.google.com/citations?hl=en&user=NviKdM0AAAAJ&view_op=list_works&gmla=AKCpqFyffNLOdhBloMavMW5M2-DBnePvUBINLkRVKhmmCZwnT7hYx25OnCHwU0lHNKk3ZfhGgNFaCa3SO7Ql9Y63]
+- 🔬 ORCID: [https://orcid.org/0009-0008-3359-8308]
+- 💼 LinkedIn: [https://www.linkedin.com/in/axelrojero/]
+- 📧 Email: [a01562339@tec.mx]
