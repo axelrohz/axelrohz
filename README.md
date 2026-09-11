@@ -12,6 +12,7 @@ their relationship with human metabolic phenotypes.
 - 🦠 I work with **comparative genomics, pangenomics and metapangenomics**.
 - 👨‍🏫 I am interested in **bioinformatics education and scientific mentoring**.
 - 🤝 I view **collaboration as a pillar of science**, so I'm always open to new projects
+- ✨ Beyond science, I write poetry, play volleyball, and enjoy music, visual storytelling, and creative projects.
 
 ## Recent work
 
