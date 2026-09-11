@@ -42,7 +42,7 @@ Pangenomics · Metapangenomics · Genome Mining · Synthetic Biology**
 
 ## Connect with me
 
-- 🎓 Google Scholar: [https://scholar.google.com/citations?hl=en&user=NviKdM0AAAAJ&view_op=list_works&gmla=AKCpqFyffNLOdhBloMavMW5M2-DBnePvUBINLkRVKhmmCZwnT7hYx25OnCHwU0lHNKk3ZfhGgNFaCa3SO7Ql9Y63]
-- 🔬 ORCID: [https://orcid.org/0009-0008-3359-8308]
-- 💼 LinkedIn: [https://www.linkedin.com/in/axelrojero/]
-- 📧 Email: [a01562339@tec.mx]
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=NviKdM0AAAAJ)
+- 🔬 [ORCID](https://orcid.org/0009-0008-3359-8308)
+- 💼 [LinkedIn](https://www.linkedin.com/in/axelrojero/)
+- 📧 [Email](mailto:a01562339@tec.mx)
