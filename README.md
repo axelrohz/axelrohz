@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Axel Rojero-Hernández
 
-I'm a PhD researcher at TEC, interested in developing and applying bioinformatics
+I'm a **Biotech PhD student** at **TEC**, interested in developing and applying bioinformatics
 approaches to study microbial communities, comparative genomics, and
 biotechnological systems.
 
@@ -12,7 +12,7 @@ their relationship with human metabolic phenotypes.
 - 🦠 I work with **comparative genomics, pangenomics and metapangenomics**.
 - 👨‍🏫 I am interested in **bioinformatics education and scientific mentoring**.
 - 🤝 I view **collaboration as a pillar of science**, so I'm always open to new projects
-- ✨ Beyond science, I write poetry, play volleyball, and enjoy music, visual storytelling, and creative projects.
+- ✨ Beyond science, I write poetry, play volleyball, enjoy music, visual storytelling, and creative projects.
 
 ## Recent work
 
